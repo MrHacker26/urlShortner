@@ -1,9 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ### urlShortner
-
-- [ ] Frontend
-- [x] Backend
+- [x] Getting Started
+- [x] Frontend (30%)
+- [x] Business logics(30%)
+- [] Backend
 
 
 ## Getting Started
