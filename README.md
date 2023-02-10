@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - [x] Getting Started
 - [x] Frontend (30%)
 - [x] Business logics(30%)
-- [] Backend
+- [ ] Backend
 
 
 ## Getting Started
