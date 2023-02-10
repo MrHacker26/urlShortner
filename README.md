@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### urlShortner
+### urlShortner: Create Beautiful Short Urls
 - [x] Getting Started
 - [x] Frontend (30%)
 - [x] Business logics(30%)
